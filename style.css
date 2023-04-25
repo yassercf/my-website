@@ -224,6 +224,7 @@
 .Contact .info p {
    font-size:1.5em ;
    text-overflow:ellipsis;
+   word-wrap: break-word;
 }
 
 .footer {
